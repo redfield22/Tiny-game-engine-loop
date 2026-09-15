@@ -1,2 +1,12 @@
 # Tiny-game-engine-loop
-a tiny game engine loop program made in pure c++ with no pre existing game engines used .
+
+Learning project focused on:
+
+- Game loops
+- Rendering
+- Physics
+- Collision detection
+- Memory allocators
+- Networking
+
+Built incrementally from scratch in C++.
